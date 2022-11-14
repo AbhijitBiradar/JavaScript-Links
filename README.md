@@ -1,1 +1,5 @@
-# JavaScript-Links
+# javascript map
+
+# javascript reduce
+
+# javascript filter
