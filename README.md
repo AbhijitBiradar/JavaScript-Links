@@ -135,7 +135,7 @@ https://github.com/priya42bagde/Algorithms-and-Data-Structures
 
 
 
-
+# javascript Annonymus Function
 
 
 # javascript map
