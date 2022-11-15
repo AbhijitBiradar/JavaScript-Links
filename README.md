@@ -140,6 +140,23 @@ https://github.com/priya42bagde/Algorithms-and-Data-Structures
 
 # javascript map
 
+
 # javascript reduce
 
+
 # javascript filter
+
+
+# javaScript Array Method
+
+
+# JavaScript String Method
+
+
+# JavaScript Date method
+
+
+# JavaScript Collections
+
+
+
