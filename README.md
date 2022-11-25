@@ -105,6 +105,59 @@ https://www.youtube.com/playlist?list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG
 # javascript FAQs
 
 
+https://github.com/sudheerj/javascript-interview-questions
+
+https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions
+
+https://github.com/lydiahallie/javascript-questions
+
+https://github.com/rohan-paul/Awesome-JavaScript-Interviews
+
+https://github.com/Aakashdeveloper/JavaScript-Interview-Question
+
+https://github.com/Devinterview-io/javascript-interview-questions
+
+https://github.com/kennymkchan/interview-questions-in-javascript
+
+https://github.com/tkssharma/CRACK_JS_INTERVIEWS
+
+https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions
+
+https://github.com/RiteshK-611/JavaScript-Interview-Questions
+
+https://github.com/harshalslimaye/awesome-javascript-practice-exercises
+
+https://github.com/iamkoushik1999/Javascript-Interview-Questions
+
+https://github.com/PrathmeshSadake/javascript-interview-questions
+
+https://github.com/pavanmg007/jschallenger
+
+https://github.com/akobbs/javascript-interview-questions
+
+https://github.com/rohan-paul/Awesome-JavaScript-Interviews
+
+https://github.com/sudheerj/javascript-interview-questions
+
+https://github.com/30-seconds/30-seconds-of-interviews
+
+https://github.com/lydiahallie/javascript-questions
+
+https://github.com/sudheerj/javascript-interview-questions
+
+https://www.guru99.com/javascript-interview-questions-answers.html
+
+https://mindmajix.com/javascript-interview-questions
+
+https://www.fullstack.cafe/interview-questions/javascript
+
+https://www.tutorialspoint.com/javascript/javascript_interview_questions.htm
+
+https://www.mygreatlearning.com/blog/javascript-interview-questions/
+
+https://www.codingem.com/javascript-interview-questions/
+
+https://www.frontendinterviewhandbook.com/javascript-questions
 
 
 # javascript Additional Resources
